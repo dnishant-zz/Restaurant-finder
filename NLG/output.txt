@@ -1,0 +1,22 @@
+Sorry I could not find restaurants matching your interests. But here is a list of suggestions.
++---------------+-------------+---------+-------+--------+
+|      Name     |   Location  | Cuisine | Price | Rating |
++---------------+-------------+---------+-------+--------+
+|    Food Hub   | Bakersfield |  Indian |   17  |   5    |
+| Cafe Basilico |   Downtown  | Mexican |   19  |   2    |
+|     Benzy     |  University | Chinese |   13  |   4    |
+|  Western Inn  |  University |  Indian |   5   |   3    |
+|  Grand Hyatt  | Bakersfield |  Indian |   15  |   3    |
+|    Trident    |  University |  Indian |   29  |   2    |
++---------------+-------------+---------+-------+--------+
+
+
+
+I have found 2 Restaurants matching your interest.
+Here is the list of Restaurants along with their name, rating and average price.
++-------------+----------+---------+-------+--------+
+|     Name    | Location | Cuisine | Price | Rating |
++-------------+----------+---------+-------+--------+
+|  China Gate | Downtown | Chinese |   20  |   4    |
+| Holiday Inn | Downtown | Chinese |   20  |   1    |
++-------------+----------+---------+-------+--------+

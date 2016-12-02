@@ -1,0 +1,101 @@
+Restaurant_id,Restaurant_name,Restaurant_address,Restaurant_cuisine,Restaurant_price,Restaurant_rating
+1,Express Pizza,South Hall Street,Italian,30,3
+2,Bistro,South Hall Street,Mexican,3,5
+3,Cafe Basilico,North Hope Street,Mexican,19,2
+4,Himalayan Restaurant,North Hope Street,Indian,2,4
+5,Barbeque Junction,South Figueroa Street,Italian,15,2
+6,TAP Resto,South Figueroa Street,Mexican,16,5
+7,Loco Chino,South Hall Street,Chinese,14,1
+8,Pizza Factory,South Hall Street,Italian,35,2
+9,Pop Tate,North Hope Street,Italian,16,5
+10,India Gate,North Hope Street,Indian,49,3
+11,Taj Restaurant,South Hall Street,Indian,18,4
+12,5 Spice,South Hall Street,Chinese,2,3
+13,Holiday Inn,North Hope Street,Chinese,20,1
+14,Quesso Ristorante,North Hope Street,Mexican,47,4
+15,Silli Chilli,South Figueroa Street,Chinese,8,5
+16,Wok Express,Hoover Street,Chinese,25,3
+17,Piccadle,Hoover Street,Indian,32,2
+18,Foodway,Hoover Street,Chinese,15,2
+19,Grills and wok,South Hall Street,Chinese,28,1
+20,Mexican Corner,South Hall Street,Mexican,5,4
+21,Bora Bora,North Hope Street,Mexican,31,3
+22,Zoodles,North Hope Street,Chinese,1,5
+23,Sammy Sosa,Hoover Street,Mexican,7,2
+24,Western Inn,Hoover Street,Indian,5,3
+25,Brunchilli,South Hall Street,Mexican,46,1
+26,China Gate,North Hope Street,Chinese,20,4
+27,Spice of India,South Hall Street,Indian,16,2
+28,Burrito Point,South Hall Street,Mexican,16,3
+29,Rola Rossa,Hoover Street,Mexican,10,1
+30,Trident,Hoover Street,Indian,29,2
+31,Chin Chaw,North Hope Street,Chinese,46,2
+32,La Casa Mexicana,North Hope Street,Mexican,33,2
+33,Cheezy Bytes,South Hall Street,Italian,7,4
+34,Delicacy of China,South Hall Street,Chinese,10,3
+35,Southeast Corner,North Hope Street,Italian,14,4
+36,Cafe in the Woods,North Hope Street,Italian,12,5
+37,Courtyard,Hoover Street,Indian,10,2
+38,Fusion Kitchen,Hoover Street,Indian,30,1
+39,Lucky Food,North Hope Street,Indian,6,3
+40,Taco Chino,North Hope Street,Chinese,33,3
+41,Carter's Blue,South Hall Street,Italian,45,5
+42,Joey Pizza,South Hall Street,Italian,19,4
+43,Country Diner,North Hope Street,Italian,10,1
+44,Mini Punjab,North Hope Street,Indian,40,4
+45,Central Park Caf_,South Figueroa Street,Italian,42,5
+46,Downtown Subway,South Figueroa Street,Italian,8,1
+47,Castle Inn,North Hope Street,Italian,20,3
+48,Foodie Station,South Hall Street,Mexican,15,2
+49,Chings,South Hall Street,Chinese,15,5
+50,Warehouse Kitchen,North Hope Street,Chinese,12,4
+51,Kohinoor Elite,South Figueroa Street,Indian,19,1
+52,Monster Grill,Hoover Street,Italian,11,3
+53,Green Field,Hoover Street,Mexican,45,5
+54,Wendy Kitchen,South Hall Street,Mexican,12,1
+55,Maroosh,South Hall Street,Indian,5,2
+56,Food Hub,South Figueroa Street,Indian,17,5
+57,Hot Grill,South Figueroa Street,Italian,20,3
+58,Grand Hyatt,South Figueroa Street,Indian,15,3
+59,Mexican City Caf_,South Figueroa Street,Mexican,49,2
+60,Eat Street,South Hall Street,Mexican,34,4
+61,Paradise Kitchen,South Hall Street,Indian,1,1
+62,Tree House Inn,Hoover Street,Italian,26,4
+63,Denison Park,Hoover Street,Chinese,30,1
+64,Royal Caf_,South Figueroa Street,Indian,33,2
+65,China Wang,South Figueroa Street,Chinese,19,5
+66,Rainforest Restro,South Hall Street,Mexican,14,2
+67,Caf_ Universal,South Hall Street,Italian,6,4
+68,Sunrise Buffet,South Figueroa Street,Indian,22,1
+69,Flag Chinese,South Figueroa Street,Chinese,49,5
+70,Yoko Sizzler,South Figueroa Street,Chinese,11,3
+71,Grapevine,Hoover Street,Mexican,38,1
+72,Cassie's Pizzeria,Hoover Street,Mexican,11,5
+73,Food First,South Figueroa Street,Italian,17,2
+74,China Pavillion,South Hall Street,Chinese,16,3
+75,Westside Taco,South Hall Street,Mexican,21,4
+76,Granville Greens,Hoover Street,Italian,3,1
+77,Planet Barbeque,South Hall Street,Italian,39,5
+78,Orchids,South Figueroa Street,Indian,39,5
+79,Bacco Restaurant,Hoover Street,Mexican,42,4
+80,Penthouzz,Hoover Street,Indian,4,2
+81,Classic Fast Food,Hoover Street,Chinese,38,3
+82,Cafe Mexicana,South Hall Street,Mexican,17,5
+83,The Hill Green,South Hall Street,Italian,9,1
+84,Taste Buds,Hoover Street,Chinese,9,1
+85,Landmark Restaurant,Hoover Street,Chinese,44,3
+86,Punjab Grill,Hoover Street,Indian,48,4
+87,Hubs n Spice,South Hall Street,Mexican,13,3
+88,Chipotle Point,South Hall Street,Mexican,20,3
+89,Captain Kitchen,Hoover Street,Italian,48,2
+90,Global Chaos,South Figueroa Street,Indian,21,5
+91,Sonora Restaurant,South Figueroa Street,Indian,42,2
+92,Highpoint,Hoover Street,Chinese,18,4
+93,Peppr Pinch,Hoover Street,Mexican,8,4
+94,Chester Pizza,Hoover Street,Italian,39,1
+95,Spices and Flavours,South Hall Street,Indian,12,5
+96,Legacy of Mumbai,South Hall Street,Indian,14,3
+97,Benzy,Hoover Street,Chinese,13,4
+98,Sweet Retreat,South Figueroa Street,Italian,22,2
+99,Lake View Caf_,South Figueroa Street,Italian,49,4
+100,Fire Bowl,Hoover Street,Chinese,50,3
