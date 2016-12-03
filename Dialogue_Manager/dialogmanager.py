@@ -1,4 +1,4 @@
-from nlg import *
+from NLG import *
 
 
 #input1={"price":"costly","location":"South Figueroa","cuisine":"Indian"}
