@@ -3,6 +3,7 @@
 # from database import search_restaurant_by_price
 # from database import search_restaurant_by_price_cuisine
 # from database import search_restaurant_by_address
+from Text-to-speech-api import speak
 import database
 from tabulate import tabulate
 import subprocess
@@ -113,8 +114,7 @@ def getInfo(input_dictionary):
         d = database.call_trade_off(input_dictionary["location"], input_dictionary["cuisine"],
                                     input_dictionary["price"])
         ans = "Sorry I could not find restaurants matching your interests. But here is a list of suggestions.\n"
-        tts = gTTS(text=ans, lang='en')
-        tts.save("hello.mp3")
+        Text-to-speech-api.speak(ans)
         t = PrettyTable(['Name', 'Location', 'Cuisine', 'Price', 'Rating'])
 
         for k, v in d.items():
@@ -126,6 +126,7 @@ def getInfo(input_dictionary):
 
     ans = "I have found " + str(length) + " Restaurants matching your interest.\n"
     ans += "Here is the list of Restaurants along with their name, rating and average price.+\n"
+    Text-to-speech-api.speak(ans)
     #tts = gTTS(text=ans, lang='en')
     #tts.save("hello.mp3")
 
